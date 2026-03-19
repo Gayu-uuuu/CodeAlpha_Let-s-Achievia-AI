@@ -1,0 +1,188 @@
+[
+{
+"question": "How can I focus better while studying?",
+"answer": "Focus improves when distractions are minimized and study sessions are structured. Try studying in 25-minute focused intervals followed by short breaks. This technique helps maintain attention and prevents mental fatigue.",
+"category": "Focus and Productivity"
+},
+{
+"question": "Why do I get distracted easily when studying?",
+"answer": "Distractions often occur because the brain seeks easier rewards like social media. Creating a distraction-free environment and setting clear study goals can significantly improve concentration.",
+"category": "Focus and Productivity"
+},
+{
+"question": "What is the Pomodoro technique?",
+"answer": "The Pomodoro technique is a time management strategy where you study for 25 minutes and take a 5-minute break. After four cycles, you take a longer break. This method helps maintain mental freshness and improve productivity.",
+"category": "Study Techniques"
+},
+{
+"question": "How can I avoid procrastination?",
+"answer": "Procrastination often happens when tasks feel overwhelming. Break large tasks into smaller manageable parts and start with the easiest step to build momentum.",
+"category": "Productivity"
+},
+{
+"question": "Why do I feel sleepy when studying?",
+"answer": "Sleepiness while studying may result from fatigue, poor sleep, boredom, or lack of physical movement. Ensuring proper sleep and taking short movement breaks can improve alertness.",
+"category": "Focus and Productivity"
+},
+
+{
+"question": "How can I remember what I study?",
+"answer": "Memory improves when you actively recall information instead of passively rereading it. Techniques like self-testing, summarizing from memory, and teaching concepts to others help strengthen retention.",
+"category": "Learning Techniques"
+},
+{
+"question": "What is active recall?",
+"answer": "Active recall is a learning technique where you test yourself on material instead of simply rereading notes. This strengthens neural pathways and improves long-term retention.",
+"category": "Learning Science"
+},
+{
+"question": "What is spaced repetition?",
+"answer": "Spaced repetition involves reviewing information at increasing time intervals. This technique aligns with how memory works and helps prevent forgetting.",
+"category": "Memory Techniques"
+},
+{
+"question": "Why do I forget things quickly after studying?",
+"answer": "Forgetting happens when information is not reinforced. Regular review sessions and practice tests help consolidate knowledge into long-term memory.",
+"category": "Memory Science"
+},
+{
+"question": "Is rewriting notes effective for studying?",
+"answer": "Rewriting notes can help with understanding, but testing yourself and applying concepts is usually more effective for deep learning.",
+"category": "Study Methods"
+},
+
+{
+"question": "How can I reduce exam stress?",
+"answer": "Exam stress can be reduced through preparation, regular revision, healthy sleep, and relaxation techniques like deep breathing. Maintaining perspective helps reduce performance anxiety.",
+"category": "Stress Management"
+},
+{
+"question": "Why do exams make me anxious?",
+"answer": "Exams create pressure because they are associated with evaluation and expectations. Preparation and practicing exam simulations can reduce anxiety.",
+"category": "Academic Anxiety"
+},
+{
+"question": "What should I do if I feel overwhelmed by studies?",
+"answer": "When overwhelmed, pause and break tasks into smaller achievable goals. Completing small tasks can restore a sense of control and motivation.",
+"category": "Stress Management"
+},
+{
+"question": "How can I calm myself before an exam?",
+"answer": "Deep breathing, positive self-talk, and briefly reviewing key concepts can help calm the mind before an exam.",
+"category": "Stress Management"
+},
+{
+"question": "What is burnout in students?",
+"answer": "Burnout is a state of mental and emotional exhaustion caused by prolonged stress and overwork. It often leads to reduced motivation and productivity.",
+"category": "Mental Health"
+},
+
+{
+"question": "How do I stay motivated to study?",
+"answer": "Motivation increases when goals are meaningful and progress is visible. Setting clear short-term goals can help maintain motivation.",
+"category": "Motivation"
+},
+{
+"question": "Why do I lose motivation quickly?",
+"answer": "Motivation often declines when tasks feel repetitive or progress is unclear. Tracking progress and celebrating small achievements can help sustain motivation.",
+"category": "Motivation"
+},
+{
+"question": "What is a growth mindset?",
+"answer": "A growth mindset is the belief that abilities and intelligence can improve through effort, learning, and persistence.",
+"category": "Mindset"
+},
+{
+"question": "How can I build discipline?",
+"answer": "Discipline develops through consistent habits. Start with small routines and repeat them daily until they become automatic.",
+"category": "Self Discipline"
+},
+{
+"question": "How can I stop comparing myself to others?",
+"answer": "Focus on personal growth and progress rather than external comparisons. Everyone has a unique path and timeline.",
+"category": "Mindset"
+},
+
+{
+"question": "How do I choose the right career path?",
+"answer": "Career choices should consider interests, skills, values, and long-term goals. Exploring internships and speaking with professionals can help clarify direction.",
+"category": "Career Development"
+},
+{
+"question": "What if I feel confused about my career?",
+"answer": "Career confusion is common. Exploring multiple fields, gaining exposure through projects or internships, and reflecting on strengths can provide clarity.",
+"category": "Career Exploration"
+},
+{
+"question": "How important are internships for students?",
+"answer": "Internships provide practical experience and help students understand real-world work environments. They also improve employability.",
+"category": "Career Development"
+},
+{
+"question": "Should I follow passion or salary?",
+"answer": "Ideally, find a balance between passion and practical opportunities. Long-term satisfaction often comes from meaningful work combined with stability.",
+"category": "Career Planning"
+},
+{
+"question": "How can I improve my employability as a student?",
+"answer": "Developing technical skills, communication skills, teamwork abilities, and real project experience increases employability.",
+"category": "Career Skills"
+},
+
+{
+"question": "How can I manage time effectively as a student?",
+"answer": "Use a planner to organize tasks and prioritize important work. Consistent planning reduces stress and improves productivity.",
+"category": "Time Management"
+},
+{
+"question": "How do I balance studies and social life?",
+"answer": "Balance comes from scheduling both work and relaxation. Proper planning allows students to maintain productivity without burnout.",
+"category": "Life Balance"
+},
+{
+"question": "What should I do if I feel lonely in college?",
+"answer": "Joining clubs, participating in events, and connecting with classmates can help build meaningful relationships.",
+"category": "Student Life"
+},
+{
+"question": "How can I develop good study habits?",
+"answer": "Establish a fixed study routine, maintain a clean study space, and set achievable daily goals.",
+"category": "Study Habits"
+},
+{
+"question": "Why is consistency important in studying?",
+"answer": "Learning happens gradually. Consistent effort over time is far more effective than occasional intense study sessions.",
+"category": "Study Habits"
+},
+
+{
+"question": "I feel extremely depressed and cannot handle life anymore.",
+"answer": "I'm really sorry that you're feeling this way. You don't have to go through this alone. Talking to a trained professional can really help. In India, you can reach the Kiran Mental Health Rehabilitation Helpline at 1800-599-0019 which offers free mental health support 24/7.",
+"category": "Mental Health Support"
+},
+{
+"question": "I feel like giving up on everything.",
+"answer": "Feeling overwhelmed can make things seem hopeless, but support is available. Speaking with a trained counselor can help you navigate these feelings. You can contact the Kiran Mental Health Rehabilitation Helpline at 1800-599-0019 for confidential mental health support.",
+"category": "Mental Health Support"
+},
+{
+"question": "I feel like harming myself.",
+"answer": "I'm really sorry that you're feeling this much pain. You deserve support and care. Please consider reaching out to a trained counselor who can help you through this moment. In India, you can call the Kiran Mental Health Helpline at 1800-599-0019 for immediate assistance.",
+"category": "Crisis Support"
+},
+{
+"question": "I feel very lonely and emotionally exhausted.",
+"answer": "Feeling lonely or emotionally drained can be very difficult. Talking to someone who understands can help you feel supported. You can reach out to the Vandrevala Foundation mental health helpline at 9999 666 555 which offers emotional support.",
+"category": "Emotional Support"
+},
+{
+"question": "I am struggling with severe anxiety and panic.",
+"answer": "Severe anxiety and panic can feel overwhelming, but professional help can make a big difference. In India, you can contact the Kiran Mental Health Helpline at 1800-599-0019 for free support services.",
+"category": "Mental Health Support"
+},
+{
+"question": "I feel hopeless about my future.",
+"answer": "When the future feels uncertain it can be very distressing. Speaking with a trained counselor can provide perspective and support. The Kiran Mental Health Helpline at 1800-599-0019 is available 24/7 for support in India.",
+"category": "Emotional Support"
+}
+]
