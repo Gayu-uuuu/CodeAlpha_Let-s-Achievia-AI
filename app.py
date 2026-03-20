@@ -100,7 +100,7 @@ CONTEXT:
     except Exception as e:
         print("GROQ ERROR:", type(e).__name__, str(e))
         traceback.print_exc()
-        return "⚠️ Vettri AI is temporarily unavailable."
+        return "⚠️ Let's Achievia AI is temporarily unavailable."
 
 # -------------------------
 # Homepage
