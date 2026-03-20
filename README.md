@@ -111,7 +111,8 @@ http://127.0.0.1:5000
 - Multi-user memory support  
 - Improved UI/UX  
 - Deployment (Render / Vercel / AWS)  
-- Voice-enabled interaction  
+- Voice-enabled interaction
+- More Human-like Response
 
 ---
 
